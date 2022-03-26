@@ -1,4 +1,7 @@
-### Olá, sou Felipe Alexandre! 🖐️ 
+### Olá, sou Felipe Alexandre! 🖐️
+
+## Sobre mim
+Trabalho com informática desde os 12 anos, me apaixonei por programação durante minha caminhada, hoje desenvolvo aplicativos Android/IOS 📲.
 
 ![](https://komarev.com/ghpvc/?username=fealex95&color=blue)
 
