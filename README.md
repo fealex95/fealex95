@@ -1,11 +1,11 @@
-### Olá, sou Felipe Alexandre! 🖐️
+### Olá, sou Felipe Alexandre! 🖐️ 
+
+![](https://komarev.com/ghpvc/?username=fealex95&color=blue)
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511991977204)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alexandre-b7a99580/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fealexandre95/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.alexandre.3348)
-
-![](https://komarev.com/ghpvc/?username=fealex95&color=blue)
 
 ![Felipe Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=fealex95&count_private=true&show_icons=true&theme=react)
 
